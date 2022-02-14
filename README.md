@@ -1,4 +1,4 @@
-#:pencil2: AirBnB Clone - The Console
+# :pencil2: AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
@@ -160,24 +160,27 @@ We work on how to modify an HTML element style. Also, how to get and update an H
 ![](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png)
 
 
-
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/8e3c27078d62806b8ad1c1a682fbb3a48636ab89.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220214T034744Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ed2e309192c2e6fffada2d57093a47e6fadb0ee84595176148e80f12a3574c1d)
+![](https://i.imgur.com/yeMY0TT.jpg)
 
 
 ## Bugs
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+  
+### First part of Airbnb: 
+* Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+* Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+* Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+* David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Second part of Airbnb: Joann Vuong
+### Second part of Airbnb: 
 
-Fourth part of Airbnb:
-Diana Henao - [mail](2777@holbertonschool.com) 
-Paola Garcia - [mail](3426@holbertonschool.com) 
+* Joann Vuong
+
+### Fourth part of Airbnb:
+* Diana Henao - [mail](2777@holbertonschool.com) 
+* Paola Garcia - [mail](3426@holbertonschool.com) 
 
 ## License
 Public Domain. No copy write protection. 
