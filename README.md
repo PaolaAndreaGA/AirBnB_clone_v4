@@ -157,6 +157,13 @@ In this last part of the Airbnb project, we have worked on the manipulation of t
 
 We work on how to modify an HTML element style. Also, how to get and update an HTML element content, how to modify the DOM. Additionally, we work on how to make a GET request with JQuery Ajax and how to make a POST request with JQuery Ajax. Finally, we work on how to listen/bind to DOM events, how to listen/bind to user events.
 
+![](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png)
+
+
+
+![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/8e3c27078d62806b8ad1c1a682fbb3a48636ab89.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220214T034744Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ed2e309192c2e6fffada2d57093a47e6fadb0ee84595176148e80f12a3574c1d)
+
+
 ## Bugs
 No known bugs at this time. 
 
